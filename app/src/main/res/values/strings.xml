@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Paces Name
+    <string name="place_1">Delhi</string>
+    <string name="place_2">Kolkata</string>
+    <string name="place_3">Mumbai</string>
+    <string name="place_4">Goa</string>
+
+
+    //Delhi Places Name
+    <string name="delhi_place_1">India gate</string>
+    <string name="delhi_place_2">Hauz Khas Village</string>
+    <string name="delhi_place_3">Qutub Minar</string>
+    <string name="delhi_place_4">Humayun\'s Tomb</string>
+
+    //Delhi Place Details
+    <string name="delhi_detail_1">At the centre of New Delhi stands the 42 m high India Gate, an "Arc-de-Triomphe" like archway in the middle of a crossroad. Almost similar to its French counterpart, it commemorates the 70,000 Indian soldiers who lost their lives fighting for the British Army during the World War I. The memorial bears the names of more than 13,516 British and Indian soldiers killed in the Northwestern Frontier in the Afghan war of 1919.</string>
+    <string name="delhi_detail_2">An affluent neighbourhood in South Delhi, Hauz Khas has been well known since medieval times. Hauz Khas Village retains the old charm of the place with remnants of Islamic architecture roughly coloured by splotches of urbane refurbished upmarket. \'HKV\' is known for its electric nightlife with countless cafes, bars and pubs along with art galleries, and boutiques.</string>
+    <string name="delhi_detail_3">At a height of 234 feet, this minaret is the tallest individual tower in the world and is a perfect display of Mughal architectural brilliance.</string>
+    <string name="delhi_detail_4">Apart from being known for its stunning architecture, this is the first garden-tomb on the Indian subcontinent. It is a UNESCO World Heritage Site declared in 1993, and has undergone widespread restoration work since then. The tomb was custom-built by Humayun\'s son Akbar during 1569-70, and is also the first structure to have made the use of red sandstone at a massive scale.</string>
+
+    //Kolkata Places Name
+    <string name="kolkata_place_1">Victoria Memorial</string>
+    <string name="kolkata_place_2">Fort William</string>
+    <string name="kolkata_place_3">Belur Math</string>
+    <string name="kolkata_place_4">Howrah Bridge</string>
+
+    //Kolkata Places Details
+    <string name="kolkata_detail_1">The Victoria Memorial is a large marble building, which is considered to be the pride of Kolkata. Built between 1906 and 1921, it is dedicated to the memory of Queen Victoria. Now, it is a museum and a popular tourist spot under the Ministry of Culture.</string>
+    <string name="kolkata_detail_2">Fort William is a fort built in Kolkata on the eastern banks of the River Hooghly, the major distributary of Ganges, during the early years of the Bengal Presidency in the British India. It was named after King William III of England and Ireland and King William II of Scotland. The Maidan, which used to be a part of the Fort and is the largest urban park in Calcutta stands in front of the Fort.</string>
+    <string name="kolkata_detail_3">Belur Math is the headquarters of the Ramakrishna Math and Mission, founded by Swami Vivekananda, the chief disciple of Ramakrishna Paramahamsa. It is situated on the west bank of Hooghly River, Belur, West Bengal, India. It is one of the noteworthy establishments in Kolkata. This temple is the focus of the Ramakrishna Movement. The temple is prominent for its architecture that embraces Hindu, Christian and Islamic styles and stands as an icon of unity of all religions.</string>
+    <string name="kolkata_detail_4">Located over the Hooghly river in West Bengal, Howrah Bridge or the Rabindra Setu is the main connection between Howrah and Kolkata. It is a cantilever bridge and is regarded as one of the busiest ones among them.</string>
+
+    //Mumbai Places Name
+    <string name="mumbai_place_1">Marine Drive</string>
+    <string name="mumbai_place_2">Gateway of India</string>
+
+
+    //Mumbai Places Details
+    <string name="mumbai_detail_1">Starting from the north of Nariman Point and ending at the famous Chowpatty beach, the Marine Drive is a 3km long arc shaped road along the sea coast of South Mumbai. The coast lines the Arabian sea and is the best place to watch the sunset in Mumbai.</string>
+    <string name="mumbai_detail_2">One of the most distinguished monument in Mumbai, The Gateway of India was built in 1924. Now it has become a popular tourist hub in the city. Located at Apollo Bunder Waterfront, the monument overlooks the Arabian Sea in the most beautiful way.</string>
+
+    //Goa Places Name
+    <string name="goa_place_1">Fort Aguada</string>
+    <string name="goa_place_2">Calangute Beach</string>
+
+    //Goa Places Details
+    <string name="goa_detail_1">Fort Aguada is a 17th-century Portuguese fort looking out at the confluence of Mandovi River and the Arabian Sea. The crumbling ramparts of the fort stand on the Sinquerim Beach, approximately 18 km from Panjim. The highlight of the fort is a lone four-storey lighthouse (which is one-of-its-kind in Asia) and a stunning view of the sunset.</string>
+    <string name="goa_detail_2">Calangute is a largest beach in north Goa stretching from Candolim to Baga. Due to its sheer size and popularity, it is a hub for tourists and backpackers from all over the world. It is the perfect place to look for accommodation as it keeps you well-connected to the other beaches in the north. You can also sample the sumptuous culinary fare at an array of shacks here and embark on a number of water sports at the beach.</string>
+
+</resources>
